@@ -65,3 +65,6 @@ sudo docker-compose exec web python manage.py loaddata fixtures.json
 
 ### Автор
 Константин Михалёв (студент Яндекс.Практикум)
+
+### Украл
+Агафонников Андрей (также студент Практикума)
